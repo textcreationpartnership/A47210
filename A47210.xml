@@ -1,0 +1,331 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Christ crucified a sermon preached at Salisbury, August 23, 1691 / by Joseph Kelsey ...</title>
+            <author>Kelsey, Joseph, d. 1710.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47210</idno>
+            <idno type="STC">Wing K247</idno>
+            <idno type="STC">ESTC R222</idno>
+            <idno type="EEBO-CITATION">13166281</idno>
+            <idno type="OCLC">ocm 13166281</idno>
+            <idno type="VID">98243</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47210)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98243)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 423:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Christ crucified a sermon preached at Salisbury, August 23, 1691 / by Joseph Kelsey ...</title>
+                  <author>Kelsey, Joseph, d. 1710.</author>
+               </titleStmt>
+               <extent>[5], 19, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Walter Kettilby ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First ed. Cf. BM.</note>
+                  <note>Advertisements: [2] p. at end.</note>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Corinthians, 1st, I, 23-24 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="imprimatur">
+            <pb facs="tcp:98243:1"/>
+            <p>Imprimatur.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Nov.</hi> 2. 1691.</date>
+               </dateline>
+               <signed>
+                  <hi>Geo. Royſe,</hi> R. R<hi rend="sup">mo</hi> in Chriſto Patri,</signed> 
+               <signed>ac D<hi rend="sup">no</hi> D<hi rend="sup">no</hi> 
+                  <hi>Johanni</hi> Archiep. <hi>Cantuar.</hi> à ſacris Do<g ref="char:EOLhyphen"/>meſt.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:98243:1" rendition="simple:additions"/>
+            <p>
+               <hi>Chriſt Crucified.</hi>
+            </p>
+            <p>A SERMON PREACHED AT SALISBURY, <hi>Auguſt</hi> 23. 1691.</p>
+            <p>By <hi>JOSEPH KELSEY,</hi> B. D. Prebendary of <hi>SARUM.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Walter Kettilby,</hi> at the <hi>Biſhop</hi>'s <hi>Head</hi> in St. <hi>Paul</hi>'s Church-Yard, 1691.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:98243:2" rendition="simple:additions"/>
+            <pb facs="tcp:98243:2"/>
+            <head>TO THE Right Honourable THOMAS EARL of PEMBROKE, &amp;c. One of Their Majeſties Moſt Ho<g ref="char:EOLhyphen"/>nourable Privy-Council.</head>
+            <opener>
+               <salute>My LORD,</salute>
+            </opener>
+            <p>HAD this Sermon been de<g ref="char:EOLhyphen"/>ſigned to be publick, I would have endeavoured, that it ſhould better have anſwered both the Dignity of the Subject, and the Nobleneſs of the Name prefixed to it. But ſince your Lordſhip was pleaſed to encourage the Printing it, as it was Preached;
+<pb facs="tcp:98243:3"/>I eſteem that Favour ſolely to proceed from your Great Piety to Catholick Ve<g ref="char:EOLhyphen"/>rities, (particularly the Honour of our Saviour, at this time ſo injuriouſly aſ<g ref="char:EOLhyphen"/>ſaulted) and your Love to the Church of <hi>England,</hi> which ever was, and con<g ref="char:EOLhyphen"/>tinues to be, the beſt Defender and Conſerver of them.</p>
+            <p>That God will confirm to your Lord<g ref="char:EOLhyphen"/>ſhip theſe and all other Virtues, which make true Greatneſs, and reward them with ſpiritual and temporal Bleſſings, is the Prayer of,</p>
+            <closer>
+               <salute>My Lord,</salute> 
+               <signed>
+                  <hi>Your Lordſhip's in all Duty moſt obliged, and moſt humble Servant,</hi> Joſeph Kelſey.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:98243:3"/>
+            <head>Chriſt Crucified.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>1 COR. I. 23, 24.</hi>
+                  </bibl>
+                  <p>But we preach Chriſt Crucified, unto the Jews a ſtumbling-block, and unto the Greeks fooliſhneſs. But unto them which are called both Jews and Greeks, Chriſt the power of God, and the Wiſ<g ref="char:EOLhyphen"/>dom of God.</p>
+               </q>
+            </epigraph>
+            <p>CHRIST in this Text ſeems to repreſent the future fate of his Religion to the end of all things: that it ſhould be always militant on Earth till triumphant in Heaven; like an <hi>Iſthmus,</hi> or narrow neck of Land, it is oppoſed to the fury of two rage<g ref="char:EOLhyphen"/>ing Enemies, Jew and Gentile, yet ſtands the Em<g ref="char:EOLhyphen"/>blem of invincible Fortitude, an eternal exception to all the powers of fleſhly Wiſdom; wounds no leſs the acuteneſs of the Grecian Sophiſter, than the dullneſs of the illogical Jew; and puzzles as well the brisker genius of <hi>Athens,</hi> as the more phlegma<g ref="char:EOLhyphen"/>tick Rabbies at <hi>Jeruſalem.</hi> A Problem baited both by ignorance and learning, by prejudice and inge<g ref="char:EOLhyphen"/>nuity, by malicious intereſt, and a better genero<g ref="char:EOLhyphen"/>ſity. The moſt excellent things ſtill fight with the greateſt difficulties; God himſelf hath the moſt Enemies; and Virtue is ever placed betwixt oppo<g ref="char:EOLhyphen"/>ſite Vices. Chriſt Crucified ſounds a contradiction
+<pb n="2" facs="tcp:98243:4"/>to the Philoſophy of a Greek, implicates in the very terms; To the Hebrew Superſtition it is more ter<g ref="char:EOLhyphen"/>rible and confounding than the ſhakings of Mount <hi>Sinai.</hi> Stupid and heavy Jew! whom nothing leſs than Thunder will confute. Captious Greek! who ſeekeſt Wiſdom in Mode and Figure; rejecting all as folly which hath not its appearance in Logical Syllogiſms, or Sophiſtical <hi>Elenchs. Quid quaeris, Ju<g ref="char:EOLhyphen"/>daee? Signa? hic eſt Dei Virtus. Quid tu, Graece? Sa<g ref="char:EOLhyphen"/>pientiam? hic eſt ſapientia Aeterni Patris. We preach Chriſt Crucified, The power of God, and the Wiſdom of God.</hi> In which words we will conſider,
+<list>
+                  <item>I. The great ſubject of Chriſtian Doctrine: <hi>We preach Chriſt Crucified.</hi>
+                  </item>
+                  <item>II. The Vindication of it from the Oppoſitions of Jew and Gentile: <hi>The power of God, and the Wiſdom of God.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">I. <hi>We preach Chriſt Crucified,</hi> That is,
+<list>
+                  <item>1. The Satisfaction which he made.</item>
+                  <item>2. The Merit of his Death.</item>
+                  <item>3. The unbounded Virtue of it.</item>
+                  <item>4. The effect which ſo great an Example of Virtue ought to have upon our ſelves.</item>
+               </list>
+            </p>
+            <p n="1">1. We preach the Satisfaction which by his Death he gave to Divine Juſtice for the ſins of the World: rendring the offended Majeſty of his Fa<g ref="char:EOLhyphen"/>ther, gracious by the oblation of himſelf.</p>
+            <p>They are low and unworthy deſigns which ter<g ref="char:EOLhyphen"/>minate the Virtue of our Saviours Death in any thing leſs than thoſe high and noble effects which Scripture and the Faith of Gods Church have attri<g ref="char:EOLhyphen"/>buted unto it. That he ſhould dy chiefly to give Teſtimony to the Doctrine of Remiſſion of ſins which he preached, is to make him a meer Martyr to his
+<pb n="3" facs="tcp:98243:4"/>own Religion; to put no diſtinction betwixt the Death of the Son of God, and of a mortal Man, to allow more real Virtue to the blood of Bulls and Goats, as to the taking away of ſin, than of the immaculate Lamb of God. The Apoſtles and all holy Martyrs, who died for the Doctrine which they preached, might on this account compare with him in the efficacy of their Deaths, and chal<g ref="char:EOLhyphen"/>lenge the incommunicable Title of Saviours and Redeemers of Mankind. Nay <hi>Socrates</hi> himſelf, ſup<g ref="char:EOLhyphen"/>poſing the Morality of his Philoſophy, ſuch as might make thoſe who ſhould practiſe it accept<g ref="char:EOLhyphen"/>able unto God, would juſtly be ſaid by his Death to have purchaſed remiſſion of ſins, and to have been the Author of Eternal Salvation to his Athenian Proſelytes.</p>
+            <p>The Miracles which our Saviour did were more convincing Arguments of the truth of his Doctrine than was his Death: it being no unheard of thing for Men with the loſs of their Lives to defend the moſt impious and heretical Opinions. Nor is that Faith and Hope of Eternal Life, ſo much magnified, as the great effect of his Death, with any reaſon applyed unto it; ſince the cruel torments of a moſt innocent Perſon at firſt ſight appears the moſt pre<g ref="char:EOLhyphen"/>poſterous means to induce a belief of immortal bliſs. And the Scriptures every where lay the foundation of a firm Faith in our Saviours Reſurrection. More<g ref="char:EOLhyphen"/>over had the Death of Chriſt been only intended for a Teſtimony to his Doctrine, it might very well have been ſpared, and others, and no leſs convin<g ref="char:EOLhyphen"/>cing methods uſed. After having lead a Life of perfection upon Earth, he might have aſcended after the manner that <hi>Enoch</hi> and <hi>Elias</hi> were tranſlated,
+<pb n="4" facs="tcp:98243:5"/>into Heaven, and from thence have ſhowed his Ma<g ref="char:EOLhyphen"/>jeſtie to the confuſion of his Enemies. He might have taken his Murderers at their word, have de<g ref="char:EOLhyphen"/>ſcended from the Croſs, and ſo confuted all their pretences. But this Sacrifice was intended for greater ends; To have its effect not only upon Men, but to move even God himſelf. And this it did to two things which ſeem to make up the Nature of Satiſ<g ref="char:EOLhyphen"/>faction.</p>
+            <list>
+               <item>1. It moved God to a relaxation of his Law, or a receding from his right.</item>
+               <item>2. To a tranſlation of the puniſhment.</item>
+            </list>
+            <p n="1">1. Upon the account of Chriſt's Sufferings, God was moved to a diſpenſation of his law. This Law is ſet down, <hi>Gen.</hi> 2.17. <hi>In the day thou eateſt the forbidden fruit, thou ſhalt ſurely die; thou ſhalt be pu<g ref="char:EOLhyphen"/>niſhed with eternal death.</hi> If this Law had exactly been executed, none could be ſaved; but we are taught, that thoſe who believe in Chriſt are redeem<g ref="char:EOLhyphen"/>ed from the Curſe of the Law, <hi>Gal.</hi> 3.13. And by the conditional Promiſes of the Goſpel, God doth plainly recede from that right of puniſhing which that Law gave him. Many are the inſtances in Scripture that God hath done this, and to diſpute that he cannot, is to transform the God of Chriſtians into a ſtoical <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to bind him in Chains of fatality as invincible as a Heathen <hi>Jupiter.</hi> Promiſes do give a right to him to whom they are made, which will be injury againſt his conſent to take away: but threatnings are revocable without any injury: becauſe it is ſuppoſed the party threatned will not challenge the performance of the threaten<g ref="char:EOLhyphen"/>ing. Nor in this caſe is it neceſſary to diſpute the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, under what notion God is to be conſidered;
+<pb n="5" facs="tcp:98243:5"/>whether this action of relaxing his Law proceeded from him as a Judge, as the party offended, or as the Governour of the World, ſince all theſe agree in him. It is ſufficient that he is God, a Being wiſe, juſt, and good, and was pleaſed (for <hi>ſatisfacere</hi> in the Law is <hi>alterius voluntatem implere</hi>) upon the account of Chriſt's Death to diſpenſe with the exe<g ref="char:EOLhyphen"/>cution of that Law whereby all Sinners, that is, whole Mankind were condemned to Eternal Tor<g ref="char:EOLhyphen"/>ments. Which diſpenſation, if it had not interve<g ref="char:EOLhyphen"/>ned, two moſt excellent things had quite periſhed out of the World, Religion from Man to God, and Divine goodneſs towards Man.</p>
+            <p n="2">2. The ſecond part of this Satisfaction is the tranſlation of the puniſhment. God's accepting the Sufferings of Chriſt for the puniſhment due to Sin<g ref="char:EOLhyphen"/>ners. This is according to another expreſſion of the Civil Law, <hi>Satisfactio eſt pro ſolutione.</hi> It is not the payment it ſelf, but in lieu of it: the Sufferings of Chriſt were not the ſame which we deſerved, yet ſuch as ſerved all the ends of Juſtice and Mercy. That he ſuffered very grievous Tortures, appears from the Hiſtory of his Paſſion: That he ſuffered for our ſins is clear from the ancient Prophecies, (<hi>Iſaiah</hi> 53.) <hi>God laid on him the iniquities of us all:</hi> and from infinite places in the Epiſtles. <hi>He was made ſin for us, a Curſe for us;</hi> which places can ſignify nothing elſe, but that Chriſt did undergo thoſe Suf<g ref="char:EOLhyphen"/>ferings upon the account of our ſins, and his Death was accepted inſtead of ours.</p>
+            <p>It is objected, That no body can be juſtly puniſh<g ref="char:EOLhyphen"/>ed for anothers ſin; becauſe obligation to puniſh<g ref="char:EOLhyphen"/>ment ariſeth from Merit, but Merit is perſonal pro<g ref="char:EOLhyphen"/>ceeding from the will, than which nothing is more our own. But.</p>
+            <pb n="6" facs="tcp:98243:6"/>
+            <p n="1">1. Firſt, It is to be conſidered, That though all the inſtances brought to declare the tranſlation of puniſhment from the guilty to the innocent, in the <hi>Athenian</hi> and <hi>Roman</hi> Commonwealths, of two Friends ready to die one for the other, of <hi>Zaleucus</hi> who redeemed his Sons Eye with the loſs of his own, do ſuppoſe a Principle which Chriſtianity will not allow, That every Man is perfect Maſter, and hath the diſpoſal of his own Life, as appears by that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſelf-murder, which was not only not eſteemed blameable, but gained the repute of manly and heroic amongſt the moſt refined Hea<g ref="char:EOLhyphen"/>thens; yet it was not ſo with Chriſt, He had both power from his Father, and as himſelf tells us (<hi>John</hi> 10.18.) <hi>No man taketh my life from me, but I lay it down of my ſelf, I have power to lay it down.</hi> That which made their actions unjuſt hath no place in his ſufferings.</p>
+            <p n="2">2. Although when God viſits the ſins of the Fa<g ref="char:EOLhyphen"/>thers upon the Children he may be ſaid to make uſe of his Soveraign right in taking away that Life which he gave, in which there can be no injuſtice ſo long as the puniſhment exceeds not the benefit of Creation upon which his right is founded. Yet is it clear from Scripture, That the People of <hi>Iſrael,</hi> and the Poſterity of <hi>Jeroboam</hi> (however they had ſins of their own) yet were they innocent as to that for which they ſuffered, <hi>David</hi>'s numbring of the People, and <hi>Jeroboam</hi>'s many iniquities.</p>
+            <p n="3">3. Laſtly it is evident, that exquiſite ſufferings are inflicted by Providence, where there is no ſin to be puniſhed or prevented, but perfect innocence. For brute Beaſts and infant Children (who having no free will cannot by ſin abuſe it) do ly under and
+<pb n="7" facs="tcp:98243:6"/>dy by the ſame tormenting Diſeaſes with rational ſinful men. So that the diſtinction betwixt puniſh<g ref="char:EOLhyphen"/>ment and affliction will not bear that weight, ei<g ref="char:EOLhyphen"/>ther in the common uſe of words, or reaſoning, which in this diſpute is laid upon it. God will ever be juſt, what names ſoever Men put upon his pro<g ref="char:EOLhyphen"/>ceedings. It was not therefore unjuſt, either ac<g ref="char:EOLhyphen"/>cording to Scripture or reaſon, that our moſt inno<g ref="char:EOLhyphen"/>cent Saviour ſhould be puniſhed for our offences, that we by his ſtripes might be healed, and the wrath of God receive that ſatisfaction which his mercy, truth, and juſtice did require.</p>
+            <p n="2">2. We preach the Merit of his Death, which is founded in theſe particulars.</p>
+            <p n="1">1. In the free and willing obedience of Chriſt. This the Scriptures take great notice of. Thus Chriſt himſelf beſpeaks his Father, <hi>Lo, I come to do thy will, O God.</hi> And God at the firſt appearance in his Office, by a Voice from Heaven, declared the great complacency he had in the Obedience of his Son. <hi>This is my beloved Son in whom I am well plea<g ref="char:EOLhyphen"/>ſed.</hi> And St. <hi>Paul</hi> tells us, <hi>that as by the diſobedience of one many were made Sinners, ſo by the obedience of one many ſhould be made righteous.</hi> Amongſt the Hea<g ref="char:EOLhyphen"/>thens it was accounted a bad <hi>Omen,</hi> if the Beaſt to be Sacrificed came with any reluctancy to the Altar. The prompt and ready ſubmiſſion of Chriſt to ſo great ſufferings, on behalf of the World, was of mighty power to encline his Father to recede from the rigour of his Juſtice.</p>
+            <p n="2">2. The Merit of Chriſt's Death is founded in the dignity of his Perſon. We were not redeemed with corruptible riches, but with the precious blood of the Son of God. It was the Lord of Life and Glory
+<pb n="8" facs="tcp:98243:7"/>who was Crucified: God did purchaſe to himſelf a Church by his own blood. Although the Divinity was impatible, and remained untouched amidſt all the fury of its Enemies, yet was the value of his Sufferings advanced by its union with his Godnead; as it is a greater aggravation to ſtrike a King than a Slave, though in both, only the body receive the ſtroke. The Stoicks do but play with words whilſt they maintain an equality of ſins, yet grant that the Murderer of his Father deſerves greater puniſh<g ref="char:EOLhyphen"/>ment, becauſe there is a complication of many ſins; he not only killed a Man, but took life from him who gave him his, who nouriſhed him, and was the Authour of all his contentment.</p>
+            <p>If the Catholick Fathers, in their diſputations with <hi>Arius</hi> and others, the Oppoſers of Chriſt's Divinity, did not inſiſt much upon the undervalu<g ref="char:EOLhyphen"/>ing the merit of his Death, nor urged the detriment to his ſatisfaction, by making him meer Man, it was rather becauſe his Divinity being ſecured, his ſatisfaction likewiſe would remain entire; than that they did not ſee the conſequence. He muſt have low thoughts of his Sufferings, who believes them only to be the Sufferings of a Mortal Man; as he who can allow all that to the Sufferings of a Man, which the Scriptures give to Chriſt's, will eaſily be brought to think there is no need of a Mediator. And therefore <hi>Socinus</hi> from the denial of Chriſt's ſa<g ref="char:EOLhyphen"/>tisfaction, proceeded to bereave him of his Godhead. A meer Man deſtroyed the World, but only God could recover it, by the effuſion of ſuch blood,
+<q>— <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</q>
+even his own.</p>
+            <p n="3">3. His Merit is founded in the greatneſs of his
+<pb n="9" facs="tcp:98243:7"/>Sufferings, not excluding the humility and neceſſi<g ref="char:EOLhyphen"/>ties of his Life, the poverty and contempt of his low eſtate.</p>
+            <p>That he indeed ſuffered the pains of the damned, or that his deſcent into Hell imports any ſuch thing is not to be believed by a Chriſtian; both becauſe the ſtate of deſperation there fills up the meafure of their miſery, (which would be impious to think of Chriſt) as alſo that ſatisfaction doth not require, that the pains of his Death ſhould be equal to the Eternal puniſhment of all Men; That would have been exact payment of Debt, and God in Juſtice could not have puniſhed any Sinner a ſecond time in his own Perſon. But that his Sufferings were of another nature, than we are capable to endure, or our Minds to conceive, ſeems to follow from the greatneſs of that Paſſion, and Symptoms of exqui<g ref="char:EOLhyphen"/>ſite torture more than once obſerved in him, which the Evangeliſts expreſs by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, forcing him to ſweat drops of blood, to pray (though with great ſubmiſſion) that the Cup might depart from him, and at laſt to cry out, <hi>My God, why haſt thou forſaken me?</hi> Had there not been ſome inviſible tortures exceeding thoſe inflicted on his Body, <hi>Celſus</hi> his Queſtion in <hi>Origen</hi> would not ſeem unreaſonable, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; have we not heard of many Martyrs, and even others who could receive no Courage from the cauſe for which they ſuffered, whoſe Deaths were not only free from the leaſt complaint, but accompanied with rejoycings? We muſt be<g ref="char:EOLhyphen"/>lieve, that the pains of our Saviour were more than we can give any account of, or (which is Blaſphe<g ref="char:EOLhyphen"/>my
+<pb n="10" facs="tcp:98243:8"/>to affirm) that he had not the fortitude of a Stoick, or an ordinary <hi>Spartan;</hi> when even the Thieves themſelves, who were Crucified with him, and died by moſt of the ſame external circumſtan<g ref="char:EOLhyphen"/>ces of Cruelty, ſhowed not the ſigns of ſo ſevere a Paſſion.</p>
+            <p n="4">4. The Innocence of the Perſon advanced the Merit of his Death. As in nature that <hi>medium</hi> which tranſmits Colours untainted to the Eye, muſt have no Colour of its own; ſo Chriſt, who was the propitiation for our ſins, did no ſin, neither was guile found in him. He is called the Lamb without ſpot. As both the Jews and Gentiles were ever careful, that the Beaſt devoted to Sacrifice ſhould be notorious, both for the clearneſs of its colour, and beauty of it's bodily ſhape. My <hi>righ<g ref="char:EOLhyphen"/>teous</hi> Servant ſhall juſtify many.</p>
+            <p>The rules laid down by the Jews are almoſt infi<g ref="char:EOLhyphen"/>nite, whereby he who was to be accounted a fit High-Prieſt, was to be examined. The parts of his Body, and qualities of his Mind, were exactly ſurveyed; no deformity in either could be excuſed when he made expiation for ſin. Such an High-Prieſt became us, who is Holy, harmleſs, undefiled, ſepa<g ref="char:EOLhyphen"/>rate from Sinners; free not only from the commiſ<g ref="char:EOLhyphen"/>ſion but inclinations to Vice, who neither did nor thought harm. The only Perſon who led a Life conformable to his Doctrine, and vindicated ſimple innocence from the reproach of ſoftneſs and want of wit. He did perfectly fulfil that Chriſtian Pro<g ref="char:EOLhyphen"/>verb, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. A harmleſs Pru<g ref="char:EOLhyphen"/>dence aderned every action of his Life, as an unpa<g ref="char:EOLhyphen"/>rallell'd love was manifeſt in his Death. He lived
+<pb n="11" facs="tcp:98243:8"/>to teach us how we may be happy, and died to ex<g ref="char:EOLhyphen"/>piate not his own but our ſins. And certainly there is not in the World a more moving Spectacle, than to ſee an innocent Perſon ſore afflicted: So ſad an effect without an immediate cauſe. Death and Diſ<g ref="char:EOLhyphen"/>eaſes are the undoubted conſequents of ſin. But that our Saviour, who with the trueſt Conſcience, and ſtrongeſt aſſurance, challenged his Murderers to accuſe him of ſin, ſhould with ſo much Patience and Charity ſubject himſelf to ſuch exquiſite tor<g ref="char:EOLhyphen"/>ments, this was the accompliſhment of his Merit, and ſuch ſatisfaction as infinite Juſtice knew not how to refuſe.</p>
+            <p n="3">3. Thirdly we preach the Univerſality, the un<g ref="char:EOLhyphen"/>bounded Virtue of his Crucifixion. Not as ſome, who making great pretenſions to preach Chriſt, preach nothing leſs, or preach him out of envy to all the World but themſelves; making void his Death, by confining the intent of his Sufferings to the little flock, upon whom alone, as on <hi>Gideon</hi>'s Fleece, this Heavenly Dew muſt fall; whilſt the reſt of the World remains parched, and dryed, pre<g ref="char:EOLhyphen"/>pared matter for everlaſting burnings, raiſing a Monopoly of that blood intended to enliven whole dead Mankind. It is a Jewiſh Principle, and fully as oppoſite to Chriſtianity as the reſt of their Reli<g ref="char:EOLhyphen"/>gion, for any Party or Sect to believe themſelves the Elect of God, and to allow no hopes or poſſibi<g ref="char:EOLhyphen"/>lity of Salvation to the infinity of Men, only to the Inhabitants of a little piece of ground ſcarce above two hundred Miles in length. But God is true. He hath told us, <hi>That Chriſt gave himſelf a ranſom for all; that he taſted death for every man.</hi> And in the
+<pb n="12" facs="tcp:98243:9"/>1 <hi>John</hi> 2.2 (to which place no diſtinction can give a colourable anſwer) <hi>he was the propitiation for our ſins, and not for ours only, but for the ſins of the whole World.</hi> So that the death of Chriſt extends its Vir<g ref="char:EOLhyphen"/>tue, 1. To all perſons. Every Man is bound, un<g ref="char:EOLhyphen"/>der the obligation of eternal Death, to believe, that Chriſt died for him in particular; therefore Chriſt did die for every Man. God obligeth no Man to believe a lye, which according to them who confine Chriſt's Death only to the Elect, the far greateſt part of Mankind muſt neceſſarily do. What ſolid ground of comfort can any ſincere Chriſtian find in believing, that almoſt whole Mankind are excluded from the benefits of his Death! Will it not breed deſpair, and make Men caſt off all Religion? or if any one be ſo hardy, as to believe himſelf is one of thoſe very few whom Chriſt ſo loved as to dy for; it is indeed like the confidence of thoſe who call them<g ref="char:EOLhyphen"/>ſelves Saints; But God hath no where made Pride, ill Nature, and high Preſumption, to be qualifica<g ref="char:EOLhyphen"/>tions for his Salvation.</p>
+            <p n="2">2. It extends to all Ages of the World. Hence he is called the Lamb ſlain from the foundation of the World, and a ranſom teſtified in due time. That though he dyed not till the fullneſs of time, yet whoever were ſaved before his appearance, were ſaved by his Merits, and by the efficacy of that blood which was figured by all the Sacrifices of the Jews, and alſo of the Gentiles, who without que<g ref="char:EOLhyphen"/>ſtion received the rite of Sacrificing by tradition from the firſt Fathers of the World. <hi>Moſes</hi> counted the reproach of Chriſt greater riches than the treaſures of <hi>Egypt.</hi> Jeſus Chriſt is the ſame propitiation in all
+<pb n="13" facs="tcp:98243:9"/>parts of time, yeſterday, to day, and for ever. This is one excellency of the Chriſtian Sacrifice above the Levitical, that its Virtue diffuſes it ſelf throughout all Ages of the World, and therefore needed but once to be offered, as the Apoſtle argues, <hi>Hebr.</hi> 9. 25. had not the Gentiles the explicite knowledge of our Saviour? neither had the generality of the Jews, only ſome few excellent Perſons to whom God vouchſafed a clearer Revelation. This is manifeſt from the end of all their Sacrifices, That they look<g ref="char:EOLhyphen"/>ed upon God as a Rewarder, merciful and placable, and that Expiation of ſins might be made.</p>
+            <p n="4">4. <hi>We preach Chriſt Crucified,</hi> That is, The effect that ſo great an Example of Virtue ought to have upon our ſelves, by an inward mortification of all thoſe ſins which were the cauſe of his ſufferings. This is that which the Scripture calls (<hi>Phil.</hi> 3.10.) <hi>the fellowſhip of his ſufferings, and to be made conform<g ref="char:EOLhyphen"/>able to his death;</hi> this Saint <hi>Paul</hi> did glory in, this is that Chriſt Crucified, the knowledge whereof he was ſo ambitious, as without which all the other excellent ends of his Death would ſignify nothing but the aggravation of our ſin and miſery. But the World called Chriſtian thinks it now the greateſt ſign of its being ſo, that it retains the Death of Chriſt in Hiſtory and Speculation; can make ha<g ref="char:EOLhyphen"/>rangues upon his Vurtues, and rhetorically ſet forth the Cruelty of his Paſſion. We have more diſputes concerning the ſpiritual Croſs and virtue of his Death, than Criticks have about the faſhion of his material Croſs: infinitely more concerning the na<g ref="char:EOLhyphen"/>ture and power of the Sacraments, than Phyſicians have about that part whence the Water and Blood
+<pb n="14" facs="tcp:98243:10"/>did iſſue forth. It is an eaſy way of ſatisfying pu<g ref="char:EOLhyphen"/>niſhment by the afflictions of another, and ſcarce to have any ſence of thoſe ſtripes whereby we are healed. As if imagination were as powerful in Re<g ref="char:EOLhyphen"/>ligion, as it is in nature, that a ſtrong belief of Election and imputative righteouſneſs, without per<g ref="char:EOLhyphen"/>formance of Chriſtian Duties, would avail to our Salvation. Miſtake not thy ſelf, fond Creature! Chriſt died not to excuſe thee from duty, but from puniſhment, on condition of that duty. There is a Croſs which thou muſt bear, a Crucifixion which thou muſt undergo, a heavy burden of ſin which thou muſt feel, thy heart alſo muſt be pierced before thou receiveſt any benefit from his Death. His Blood is no Magical Amulet, no unintelli<g ref="char:EOLhyphen"/>gible Weapon-ſalve to heal at any diſtance, to Cure the wounds of ſin without application: its Virtue conveys not it ſelf through hidden paſſages of the air, to perfect the Cure without trouble or obſervation. Thou muſt ſearch and examine every Corner of thy Heart, not ſpare the moſt beloved Pleaſure, nor the ſin that doth moſt eaſily beſet thee. Canſt thou think any thing too dear to forſake when it comes in competition with him who hath pur<g ref="char:EOLhyphen"/>chaſed thy love at ſo great a rate? or think it rea<g ref="char:EOLhyphen"/>ſonable to take delight in thoſe ſins which gave thy beloved Saviour ſo much pain and torment? <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>Look upon me and be Religious,</hi> was written on the Tomb of an <hi>Egyptian</hi> King: Let us look a little upon him whom we have pierced. Ma<g ref="char:EOLhyphen"/>ny and incomparable are the Virtues which ſhine forth in his bitter Paſſion, propoſed to our ſerious imitation. Conſider his Patience and ſubmiſſion to
+<pb n="15" facs="tcp:98243:10"/>the Divine appointment. Look unto Jeſus, who for the joy ſet before him endured the Croſs, deſpi<g ref="char:EOLhyphen"/>ſing the ſhame. He was oppreſſed and afflicted, yet opened he not his mouth, he was brought as a Lamb to the ſlaughter. Can we then murmur at the pu<g ref="char:EOLhyphen"/>niſhments we have deſerved, when we ſee the pu<g ref="char:EOLhyphen"/>reſt innocence, the moſt conſummate goodneſs (which had better deſerved of the World) ſo inju<g ref="char:EOLhyphen"/>riouſly treated? He underſtood better than any Man the intrinſick worth of all Worldly things; yet did he not upon all occaſions ſhow the greateſt ſlight and neglect of them? Behold therefore the Croſs of Chriſt by which the World is Crucified to thee, and thou to the World. A powerful Medita<g ref="char:EOLhyphen"/>tion to curb the motions of ambition, and deſires of earthly glory. How can we refuſe to be recon<g ref="char:EOLhyphen"/>ciled to any who have offended us, when Chriſt di<g ref="char:EOLhyphen"/>ed for us who were his greater Enemies? Can we think on his Death as a propitiation to reſtore us to the favour of God, and not receive our returning Brother into our favour? This is Chriſtianity in<g ref="char:EOLhyphen"/>deed, To imitate thy Saviour in ſo hard a duty. Further, why ſhouldſt thou be troubled at the ingra<g ref="char:EOLhyphen"/>titude thou meeteſt with from the World? Haſt thou done good, and endeavoured to oblige by ſervices of love? Thou ſhalt have thy reward in the next Life. This whole World is a reward too little for one truly virtuous action. What though thy moſt religious intentions be miſ-repreſented? Be not diſ<g ref="char:EOLhyphen"/>couraged: Let not diſ-ingenuity ſtop the Commu<g ref="char:EOLhyphen"/>nications of thy Virtue and Goodneſs: which if it had done in God, we had not now been here to ac<g ref="char:EOLhyphen"/>knowledge our Great Benefactor.</p>
+            <pb n="16" facs="tcp:98243:11"/>
+            <p>Againſt this Doctrine of Chriſt Crucified, which St. <hi>Paul</hi> (1 <hi>Cor.</hi> 15.3. the Epiſtle for this day) firſt of all delivered, That Chriſt died for our ſins, ac<g ref="char:EOLhyphen"/>cording to the Scriptures, a Doctrine full of Divine Benignity, and infinite conſolation. What is it that Jew or Gentile could object?</p>
+            <p n="1">1. To the Jews it was a ſtumbling block chiefly upon theſe accounts:
+<list>
+                  <item>1. The meanneſs of Chriſts appearance. They expecting a triumphant Prince, who ſhould Con<g ref="char:EOLhyphen"/>quer the World into their Domination.</item>
+                  <item>2. That the Meſſias ſhould dy a full and ſuffici<g ref="char:EOLhyphen"/>ent Sacrifice, ſignifying the aboliſhing the Ceremo<g ref="char:EOLhyphen"/>nies of their Law.</item>
+                  <item>3. That a great end of his Death was to recon<g ref="char:EOLhyphen"/>cile Jew and Gentile, and to unite the whole World in Love and the ſame Religion; which contradicted that proud and envious temper; whereby they thought none ſhould have any benefit of the Meſſias his coming, but thoſe who became Proſelytes to their Law, which they believed to be Eternal. All which ſcandals might eaſily be removed, both from Scripture, and their own antient Traditions.</item>
+               </list>
+            </p>
+            <p n="2">2. To the Greeks it was fooliſhneſs. The high and towering ſpeculations which filled the pages of their Philoſophy, had ſo puft up their underſtand<g ref="char:EOLhyphen"/>ings, that the ſimplicity of Goſpel Doctrine could not be admitted to any thing but contempt and ſcorn. They could dogmatically refine concerning the Divine Goodneſs, and its perpetual Emanations; and thence deduce the eternity of matter, the infi<g ref="char:EOLhyphen"/>nity of Worlds, the generation of Souls, and pre<g ref="char:EOLhyphen"/>exiſtence, their exile from primitive Happineſs,
+<pb n="17" facs="tcp:98243:11"/>and lapſe into mortal Bodies. They often askt the Queſtion, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; what was the Origin of Evil, but could never anſwer it; they diſcourſed much of an <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a freedom of power to Act, but gave no account how it is become weak and feeble; of a Deification to be attained, That their wiſe Man was the only rich, beautiful perſon in the World, happier than the Gods, they being ſo by Nature, but he by his own acquiſitions. They amuzed their Scholars with the Encomiums of ſuch a Virtue as never was nor can be found. Theſe and ſuch like were the lofty phancies upon which whilſt their Imagination ſat, and looked down up<g ref="char:EOLhyphen"/>on the plain Truths of the Chriſtian Doctrine, they muſt needs ſeem low and deſpicable Principles, <hi>viz.</hi> That God did not only love the World of Mankind, but ſent his only Son to tell them ſo: who after he had by his Doctrine taught true Virtue, and by his holy Life ſhown that it was practicable, died to ſa<g ref="char:EOLhyphen"/>tisfy Juſtice and redeem the World. And that there is no other way to Salvation, but Faith in Chriſt Crucified, and the imitation of his Example. This is the plain ſum of Chriſtian Philoſophy, which even <hi>Juſtin Martyr</hi> confeſſeth was fooliſhneſs to him whilſt he was in the School of <hi>Plato.</hi> Yet this is</p>
+            <p n="1">1. The Power of God. I could tell you a large Hiſtory, from how low beginnings, by what im<g ref="char:EOLhyphen"/>probable methods it ſubdued Kingdoms, conquered the greateſt Conquerours, brought the Empires of the Eaſt and Weſt into its profeſſion; how it ſtopt the mouths of Apoſtates and Blaſphemers, ſilenced the Oracles of the Devil, that he could no longer uſe either his Poetry, or his ambiguous Proſe to the
+<pb n="18" facs="tcp:98243:12"/>deluſion of the World. That it hath ſanctified the Temples of Idols into Churches, turned the Schools of Philoſophers into the Houſes of God, thrown down Amphitheaters, levelled Pantheons, ruined the Kingdom of the Prince of Darkneſs, and ob<g ref="char:EOLhyphen"/>tained a Dominion larger than the famed Monar<g ref="char:EOLhyphen"/>chies of the Earth. This hath humbled the moſt haughty Spirits, purified the moſt defiled Minds, and can boaſt of more Proſelytes to Virtue, and Martyrs in its Cauſe, than the moſt applauded Sy<g ref="char:EOLhyphen"/>ſtems of Philoſophy.</p>
+            <p n="2">2. It is the Wiſdom of God. I will not deter<g ref="char:EOLhyphen"/>mine, as ſome too raſhly have, That it was impoſ<g ref="char:EOLhyphen"/>ſible for God to have found out any other way for the redemption of the World, but the Death of his Son. It is folly to pretend to ſet bounds to Infinity; this is to ſuppoſe that God's Wiſdom was exhauſted, and ſubject it to the comprehenſion of Man. This we may ſafely ſay, That our underſtandings will not reach to the conception of any other method, which would ſo much advance the admiration of his Wiſdom; which in the Government of the World ſeems to propound two things chiefly to it ſelf; The encouragement of Goodneſs, and Diſ<g ref="char:EOLhyphen"/>couragement of Vice. His own Glory, and the Happineſs of his Creatures depending upon each of theſe; and they are both ſerved incomparably in Chriſt Crucified.</p>
+            <p n="1">1. Here is the diſcouragement of ſin. By Gods transferring the puniſhment from us upon Chriſt, his indignation at ſin is manifeſted. That his be<g ref="char:EOLhyphen"/>loved Son ſhould ſuffer rather than ſin go unpuniſh<g ref="char:EOLhyphen"/>ed, and ſatisfaction not be given to that <hi>Recti<g ref="char:EOLhyphen"/>tude
+<pb n="19" facs="tcp:98243:12"/>and Order</hi> of things, which is the true Creditor in the caſe, requiring puniſhment to deter Men from ſin. Here we may ſee the grievous nature and direful effects of ſin; with what cruelty and infamy it procured Chriſt's Death, much more will it ours. By this we learn, that God will certainly provide for his Juſtice, under which it muſt be our care not to fall. If it made thy Saviour ſweat, it will ſet thee all on fire; if it made him dy, what will be thy portion, when Death, which was his releaſe, ſhall not be granted?</p>
+            <p n="2">2. By this method God provided for the encreaſe of Goodneſs. Had not Chriſt come and taught his Heavenly Doctrine, the World had never known what true Virtue is, nor would it have had ſufficient encouragement to attain it; had he not died, roſe again, and given his Holy Spirit to aſſiſt and illumi<g ref="char:EOLhyphen"/>nate our darkned minds, we had yet ſlept in the faint light of Nature, never found the way to Hap<g ref="char:EOLhyphen"/>pineſs. He explained the diſputed Precepts of the Antient Moraliſts, declared the future States, the juſt rewards of ſin and goodneſs. And if ſuch Mo<g ref="char:EOLhyphen"/>tives will not prevail, God is not to be blamed. He grant therefore that every one may find the power of Chriſt Crucified in his own Soul: and that All may earneſtly endeavour, That the Wiſdom of this deſign may have its intended effect, in making whole Mankind good and happy to Eternity.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:98243:13"/>
+            <head>Books Printed for <hi>Walter Kettilby,</hi> at the Biſhop's-Head in <hi>S<hi rend="sup">t</hi> Paul</hi>'s Church-Yard.</head>
+            <list>
+               <item>TEN Sermons, with two Diſcourſes of Con<g ref="char:EOLhyphen"/>ſcience. By the Lord Archbiſhop of <hi>York.</hi> 4<hi rend="sup">to</hi> —'s Sermon before the Houſe of Lords, <hi>Nov.</hi> 5. 1691.</item>
+               <item>Biſhop <hi>Overall</hi>'s Convocation Book MDCVI. concerning the Government of God's Catholick Church, and the Kingdoms of the whole World, 4<hi rend="sup">to</hi>
+               </item>
+               <item>Animadverſions on Mr. <hi>Johnſon</hi>'s Anſwer to <hi>Jo<g ref="char:EOLhyphen"/>vian.</hi> In three Letters to a Country Friend, 8<hi rend="sup">vo</hi>
+               </item>
+               <item>
+                  <hi>Turner</hi> De Angelorum &amp; Hominum Lapſu, 4<hi rend="sup">to</hi>
+               </item>
+               <item>Mr. <hi>Raymond</hi>'s Pattern of Pure and Undefiled Religion, 8<hi rend="sup">vo</hi>
+               </item>
+               <item>—'s Expoſition on the Church Catechiſm, 8<hi rend="sup">vo</hi>
+               </item>
+               <item>M<hi rend="sup">r</hi> 
+                  <hi>Lamb</hi>'s Dialogues between a Miniſter and his Pariſhioner, about the Lord's Supper, 8<hi rend="sup">vo</hi>
+               </item>
+               <item>—'s Sermon before the King at <hi>Windſor.</hi>
+               </item>
+               <item>—'s Sermon before the Lord Mayor.</item>
+               <item>—'s Liberty of humane Nature, ſtated, diſ<g ref="char:EOLhyphen"/>cuſſed and limited.</item>
+               <item>—'s Sermon before the King and Queen, <hi>Jan.</hi> 19. 1689.</item>
+               <item>—'s Sermon before the Queen, <hi>Jan.</hi> 24. 1690. D<hi rend="sup">r</hi> 
+                  <hi>Hickman</hi>'s Thankſgiving Sermon before the Honourable Houſe of Commons, <hi>Oct.</hi> 19. 1690.</item>
+               <item>—'s Sermon before the Queen at <hi>Whitehall, Oct.</hi> 26. 1690.</item>
+               <pb facs="tcp:98243:13"/>
+               <item>D<hi rend="sup">r</hi> 
+                  <hi>Burnet</hi>'s Anſwer to M<hi rend="sup">r</hi> 
+                  <hi>Warren.</hi>
+               </item>
+               <item>—'s Conſideration of M<hi rend="sup">r</hi> 
+                  <hi>Warren</hi>'s Defence.</item>
+               <item>Biſhop of <hi>Bath</hi> and <hi>Wells</hi> Reflections on a <hi>French</hi>
+               </item>
+               <item>Teſtament, Printed at <hi>Bordeaux.</hi>
+               </item>
+               <item>—s Chriſtian Sufferer ſupported, 8<hi rend="sup">vo</hi>
+               </item>
+               <item>D<hi rend="sup">r</hi> 
+                  <hi>Grove</hi> (now Lord Biſhop of <hi>Chicheſter</hi>) his Sermon before the King and Queen, <hi>June</hi> 1. 1690.</item>
+               <item>D<hi rend="sup">r</hi> 
+                  <hi>Hooper</hi>'s Sermon before the Queen, <hi>Jan.</hi> 24. 1690/1.</item>
+               <item>D<hi rend="sup">r</hi> 
+                  <hi>Pelling</hi>'s Sermon before the King and Queen, <hi>Decem.</hi> 8. 1689.</item>
+               <item>—'s Vindication of thoſe that have taken the Oath, 4<hi rend="sup">to</hi>
+               </item>
+               <item>D<hi rend="sup">r</hi> 
+                  <hi>Worthington</hi> of Reſignation, 8<hi rend="sup">vo</hi>
+               </item>
+               <item>—'s Chriſtian Love, 8<hi rend="sup">vo</hi>
+               </item>
+               <item>M<hi rend="sup">r</hi> 
+                  <hi>Nichols</hi>'s Anſwer to the Naked Goſpel, 4<hi rend="sup">to</hi>
+               </item>
+               <item>Faith and Practice of a Church of <hi>England</hi> Man, 12<hi rend="sup">o</hi>. The Third Edition.</item>
+               <item>Religion the Perfection of Man. By M<hi rend="sup">r</hi> 
+                  <hi>Jeffery</hi> 8<hi rend="sup">vo</hi>
+               </item>
+               <item>
+                  <hi>Kelſey</hi> Concio de Aeterno Chriſti Sacerdotio.</item>
+            </list>
+            <trailer>The End of the Catalogue.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
